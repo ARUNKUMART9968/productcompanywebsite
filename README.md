@@ -323,10 +323,10 @@ people.html
 
 ![output](./images/homepage.jpg)
 ## OUTPUT:
-![Output](ex7 1.png)
-![Output](ex7 2.png)
-![Output](ex7 3.png)
-![Output](ex7 4.png)
+![web7 2](https://github.com/ARUNKUMART9968/productcompanywebsite/assets/121215794/8f0f6a4b-c495-4cab-8f62-21bf8861ee61)
+![ex 7 3](https://github.com/ARUNKUMART9968/productcompanywebsite/assets/121215794/2cd2b562-6cbf-450d-8951-bc03fbb28ff3)
+![ex 7 4](https://github.com/ARUNKUMART9968/productcompanywebsite/assets/121215794/6132a74b-5b20-43d0-9da8-cbdfc1022a9c)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
