@@ -317,16 +317,16 @@ people.html
 </html>
 ```
 
-## OUTPUT:
+
 
 ### Home Page:
 
 ![output](./images/homepage.jpg)
-### Pages:
-![Output](./images/ex 7 1.png)
-![Output](./images/ex 7 2.png)
-![Output](./images/ex 7 3.png)
-![Output](./images/ex 7 4.png)
+## OUTPUT:
+![Output](ex7 1.png)
+![Output](ex7 2.png)
+![Output](ex7 3.png)
+![Output](ex7 4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
